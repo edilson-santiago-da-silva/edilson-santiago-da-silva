@@ -1,16 +1,35 @@
-### Hi there 👋
+## Seja bem vindo...
+- 🔭  Atualmente estou estudando e traçando planos para minha carreira
+- 🌱  Estou aprendendo Técnicas e estratégias de testes com foco em qualidade de software
+- 🤖  Automação de testes é meu objetivo principal, mas ainda estou em desenvolvimento
+- ⚡  Sou aberto a novas ideias, possuo força de vontade, e estou sempre aberto para novas amizades
+### 👩🏽‍💻 Linguagens de programação
 
-<!--
-**edilson-santiago-da-silva/edilson-santiago-da-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img height="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</p>
 
-Here are some ideas to get you started:
+### 🧰 Ferramentas & Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+ </p>
+ <p>
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+  <img height="37em" src="">
+ </p>
+ 
