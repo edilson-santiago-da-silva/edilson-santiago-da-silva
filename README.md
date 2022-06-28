@@ -32,7 +32,7 @@
  <p>
   <img height="25em" src="https://img.shields.io/badge/-MySQL%20-%23525252.svg?style=flat&logo=mysql&logoColor=white&">
  </p>
-<img align="right" alt="caricatura" height="350" style="border-radius:50px;" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/CaricaturaEdilsonSuperman.png">
+<img align="right" alt="caricatura" height="370" style="border-radius:50px;" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/CaricaturaEdilsonSuperman.png">
 
  ### 💿 Sistemas Operacionais
  
