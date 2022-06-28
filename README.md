@@ -40,9 +40,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/edilson-santiago-da-silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<a href="https://github.com/edilson-santiago-da-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=edilson-santiago-da-silva&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilson-santiago-da-silva&layout=compact&langs_count=8&hide=HCL"/>
 </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
