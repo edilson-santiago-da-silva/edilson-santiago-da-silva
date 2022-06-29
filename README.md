@@ -6,8 +6,9 @@
 ### 👩🏽‍💻 Linguagens de programação
 
 <p>
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img height="50em" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/servidor-sql.png" />
 </p>
 
 ### 🧰 Ferramentas & Frameworks
@@ -31,7 +32,8 @@
  <p>
   <img height="25em" src="https://img.shields.io/badge/-MySQL%20-%23525252.svg?style=flat&logo=mysql&logoColor=white&">
  </p>
- 
+<img align="right" alt="caricatura" height="360" style="border-radius:50px;" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/CaricaturaEdilsonSuperman.png">
+
  ### 💿 Sistemas Operacionais
  
  <p>
