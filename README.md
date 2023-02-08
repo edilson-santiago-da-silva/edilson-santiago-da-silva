@@ -2,7 +2,7 @@
 - 🔭  Atualmente estou estudando e traçando planos para minha carreira
 - 🌱  Estou aprendendo Técnicas e estratégias de testes com foco em qualidade de software
 - 🤖  Automação de testes é meu objetivo principal, mas ainda estou em desenvolvimento
-- ⚡  Sou aberto a novas ideias, possuo força de vontade, e estou sempre aberto para novas amizades
+- ⚡  Sou aberto a novas ideias, possuo força de vontade e estou sempre aberto para amizades
 ### 👩🏽‍💻 Linguagens de programação
 
 <p>
