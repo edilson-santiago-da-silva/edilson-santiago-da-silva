@@ -1,8 +1,8 @@
 ## Seja bem vindo...
-- 🔭  Atualmente estou estudando e traçando planos para minha carreira
-- 🌱  Estou aprendendo Técnicas e estratégias de testes com foco em qualidade de software
-- 🤖  Automação de testes é meu objetivo principal, mas ainda estou em desenvolvimento
-- ⚡  Sou aberto a novas ideias, possuo força de vontade e estou sempre aberto para amizades
+- 🔭  Atualmente estou cursando ADS e me especializando em java voltado para o back-end.
+- 🌱  Estou aprendendo as etapas da engenharia de software enquanto programo.
+- 🤖  Automação é hobby, meu objetivo principal é entender e desenvolver aplicações.
+- ⚡  Sou aberto a novas ideias e possuo força de vontade.
 ### 👩🏽‍💻 Linguagens de programação
 
 <p>
@@ -44,6 +44,5 @@
 <p>
 <a href="https://github.com/edilson-santiago-da-silva">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/?username=edilson-santiago-da-silva&count_private=true&show_icons=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilson-santiago-da-silva&layout=compact&langs_count=8&hide=HCL"/>
 </a>
 </p>
