@@ -8,7 +8,7 @@
 <p>
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/servidor-sql.png" />
+  <img height="50px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/sql.png" />
 </p>
 
 ### 🧰 Ferramentas & Frameworks
@@ -21,6 +21,12 @@
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/jwt.png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/junit.png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/restassured.png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/appium.png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/robot.jpg">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/swagger.png">
  </p>
 
   ### 💿 IDEs
@@ -36,5 +42,6 @@
  ### 🗄 Banco de dados
  <p>
   <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/h2.png">
  </p>
  
