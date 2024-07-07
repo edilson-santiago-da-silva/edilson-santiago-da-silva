@@ -6,43 +6,35 @@
 ### 👩🏽‍💻 Linguagens de programação
 
 <p>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height="50em" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/servidor-sql.png" />
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/servidor-sql.png" />
 </p>
 
 ### 🧰 Ferramentas & Frameworks
 
 <p>
-  <img height="25em" src="https://img.shields.io/badge/-IntelliJ%20-%23525252.svg?style=flat&logo=jetbrains&">
-  <img height="25em" src="https://img.shields.io/badge/-JUnit%20-%23525252.svg?style=flat&logo=cachet&">
-  <img height="25em" src="https://img.shields.io/badge/-Selenium%20-%23525252.svg?style=flat&logo=selenium&">
-  <img height="25em" src="https://img.shields.io/badge/-RestAssured%20-%23525252.svg?style=flat&logo=&">
-  <img height="25em" src="https://img.shields.io/badge/-Maven%20-%23525252.svg?style=flat&logo=apache-maven&logoColo">
-  <img height="25em" src="https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23525252.svg?style=flat&logo=visual-studio-code&logoColor=007ACC&">
-  <img height="25em" src="https://img.shields.io/badge/-Postman%20-%23525252.svg?style=flat&logo=postman&"> <br>
-  <img height="25em" src="https://img.shields.io/badge/-AndroidStudio%20-%23525252.svg?style=flat&logo=android-studio&">
-  <img height="25em" src="https://img.shields.io/badge/-Appium%20-%23525252.svg?style=flat&logo=selenium&logoColor=purple&">
-  <img height="25em" src="https://img.shields.io/badge/-Git%20-%23525252.svg?style=flat&logo=git&">
-  <img height="25em" src="https://img.shields.io/badge/-GitHub%20-%23525252.svg?style=flat&logo=github&">
-   <img height="25em" src="https://img.shields.io/badge/-Robot%20-%23525252.svg?style=flat&logo=robot&">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
  </p>
+
+  ### 💿 IDEs
+ 
+ <p>
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg">
+</p>
+<img align="right" alt="caricatura" height="300" style="border-radius:50;" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/CaricaturaEdilsonSuperman-removebg-preview.png">
  
  ### 🗄 Banco de dados
  <p>
-  <img height="25em" src="https://img.shields.io/badge/-MySQL%20-%23525252.svg?style=flat&logo=mysql&logoColor=white&">
+  <img height="40em" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
  </p>
-<img align="right" alt="caricatura" height="340" style="border-radius:50px;" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/CaricaturaEdilsonSuperman-removebg-preview.png">
-
- ### 💿 Sistemas Operacionais
  
- <p>
-  <img height="25em" src="https://img.shields.io/badge/-Windows%20-%23525252.svg?style=flat&logo=Windows&">
-  <img height="25em" src="https://img.shields.io/badge/-MacOS%20-%23525252.svg?style=flat&logo=apple&">
-</p>
-
-<p>
-<a href="https://github.com/edilson-santiago-da-silva">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/?username=edilson-santiago-da-silva&count_private=true&show_icons=true"/>
-</a>
-</p>
