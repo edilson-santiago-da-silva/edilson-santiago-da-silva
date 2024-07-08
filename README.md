@@ -48,6 +48,6 @@
 
    </span>
   <span style="margin-left: 20px;">
-    <img alt="caricatura" height="200" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/computer-cat.gif">
+    <img alt="caricatura" height="180" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/computer-cat.gif">
   </span>
  
