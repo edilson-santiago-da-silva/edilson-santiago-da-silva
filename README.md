@@ -14,7 +14,7 @@
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/jwt..png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/jwt..png"> <br>
   <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/junit..png">
   <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/restassured..png">
   <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/appium..png">
@@ -48,6 +48,6 @@
 
    </span>
   <span style="margin-left: 20px;">
-    <img alt="caricatura" height="250" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/CaricaturaEdilsonSuperman-removebg-preview.png">
+    <img alt="caricatura" height="200" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/computer-cat.gif">
   </span>
  
