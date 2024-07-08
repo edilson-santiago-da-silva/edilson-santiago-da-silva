@@ -13,8 +13,8 @@
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
-  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/jwt..png"> <br>
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg"> <br>
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/jwt..png"> 
   <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/junit..png">
   <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/restassured..png">
   <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/appium..png">
