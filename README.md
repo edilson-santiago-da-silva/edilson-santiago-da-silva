@@ -3,34 +3,34 @@
 </div>
 
 <p align="center">
-  <img height="300px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/low.gif" />
+  <img height="175px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/low.gif" />
   <p align="center"> 💙 Provérbios 16:3 🙏🏾</p>
 <h2 align="center"> 🧰 Ferramentas & Frameworks 🛠</h2>
 </p>
 
 <p align="center">
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
-  <img height="45px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/jwt..png"> 
-  <img height="45px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/junit..png">
-  <img height="45px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/restassured..png">
-  <img height="45px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/appium..png">
-  <img height="45px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/robot..png">
-  <img height="45px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/swagger..png">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/jwt..png"> 
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/junit..png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/restassured..png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/appium..png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/robot..png">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/swagger..png">
  </p>
 <div>
 <h2 align="center">👩🏽‍💻 Linguagens & Banco de dados 🗄</h2>
 </div>
 <p align="center">
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
-  <img height="45px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/sql..png" />
-  <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-  <img height="47px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/h2..png">
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/sql..png" />
+  <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img height="40px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/logo-ferramentas/h2..png">
 </p>
 
 <div>
@@ -39,9 +39,9 @@
 
  
 <p align="center">
-    <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
-    <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
-    <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
-    <img height="45px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg">
+    <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg">
+    <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+    <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
+    <img height="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg">
 </p>
 
