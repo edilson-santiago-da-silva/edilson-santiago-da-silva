@@ -5,15 +5,6 @@
 <p align="center"> <img height="230px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/low.gif" /></p>
 <p align="center">"Commit to the LORD whatever you do, <br> and he will establish your plans." <br> - Proverbs 16:3</p>
 
-<h3 align="center">📚 Studying... ✍</h3>
-<p align="center">
-  <img height="35px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/loadingLow.gif">
-  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />
-  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
-  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
-  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-</p>
-
 <h3 align="center"> 🧰 Tools and Frameworks 🛠</h3>
 <p align="center">
   <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
@@ -46,3 +37,13 @@
     <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg">
     <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg">
 </p>
+
+<h3 align="center">📚 Studying... ✍</h3>
+<p align="center">
+  <img height="35px" src="https://github.com/edilson-santiago-da-silva/edilson-santiago-da-silva/blob/main/Perfil/Perfil/loadingLow.gif">
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" />
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" />
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" />
+  <img height="35px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+</p>
+
